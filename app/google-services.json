@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "388474556644",
+    "firebase_url": "https://earnity-92a88-default-rtdb.firebaseio.com",
+    "project_id": "earnity-92a88",
+    "storage_bucket": "earnity-92a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388474556644:android:c9538e2caebc9495d19cf1",
+        "android_client_info": {
+          "package_name": "com.indivsolutions.class8tayari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388474556644-0igr85gmdk2b7f1jha2alve39nivselv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEe8i8REoBg_ERxzlKQ5ntESc_pnAg2S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388474556644-0igr85gmdk2b7f1jha2alve39nivselv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388474556644-c6qht7j1rc9o813p6r87dm06ar9onnns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nepalguide.indivsoln"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388474556644:android:3708e28e03695461d19cf1",
+        "android_client_info": {
+          "package_name": "com.indivsolutions.tayari365"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388474556644-0igr85gmdk2b7f1jha2alve39nivselv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEe8i8REoBg_ERxzlKQ5ntESc_pnAg2S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388474556644-0igr85gmdk2b7f1jha2alve39nivselv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388474556644-c6qht7j1rc9o813p6r87dm06ar9onnns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nepalguide.indivsoln"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388474556644:android:7789ed32da8bee34d19cf1",
+        "android_client_info": {
+          "package_name": "com.nepalguide.indivsoln"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388474556644-0igr85gmdk2b7f1jha2alve39nivselv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEe8i8REoBg_ERxzlKQ5ntESc_pnAg2S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388474556644-0igr85gmdk2b7f1jha2alve39nivselv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388474556644-c6qht7j1rc9o813p6r87dm06ar9onnns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nepalguide.indivsoln"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388474556644:android:30e9eb47eeeca7d7d19cf1",
+        "android_client_info": {
+          "package_name": "com.sketch.store.earning.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388474556644-0igr85gmdk2b7f1jha2alve39nivselv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEe8i8REoBg_ERxzlKQ5ntESc_pnAg2S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388474556644-0igr85gmdk2b7f1jha2alve39nivselv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "388474556644-c6qht7j1rc9o813p6r87dm06ar9onnns.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nepalguide.indivsoln"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
